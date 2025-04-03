@@ -21,6 +21,7 @@ let cardsLogos = [
   "ember",
 ];
 
+
 let [flippedCards, totalFlippedCards, totalPoints] = [[], 0, 0];
 
 const TIMEOUTGAME = 60;
